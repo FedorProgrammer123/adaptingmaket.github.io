@@ -1,0 +1,56 @@
+.block2 .testimonials {
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bolder;
+  padding-top: 150px;
+}
+
+.block2 .whatourstudentssay {
+  text-align: center;
+  font-size: 46px;
+  font-weight: bolder;
+}
+
+.block2 .sliderelementone {
+  width: 1020px;
+  height: 344px;
+  background-color: #FFFFFF;
+  border: 5px solid silver;
+}
+
+.block2 .braces {
+  position: relative;
+  top: 80px;
+  left: 50px;
+}
+
+.block2 .Justio {
+  position: relative;
+  top: 60px;
+  left: 100px;
+}
+
+.block2 .carousel-indicators {
+  position: relative;
+  top: 400px;
+}
+
+.block2 .imageslider {
+  position: relative;
+  top: 60px;
+  left: 80px;
+}
+
+.block2 .EleanorPena {
+  position: relative;
+  top: 50px;
+  left: 100px;
+}
+
+.block2 .PositionCourse {
+  position: relative;
+  top: 30px;
+  left: 178px;
+  color: #787A80;
+  font-weight: 400;
+}

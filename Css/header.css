@@ -1,0 +1,155 @@
+.header2 {
+  width: 100%;
+  height: 468px;
+  background-color: #FEDAD5;
+}
+
+.header2 .logo1 {
+  position: relative;
+  left: 200px;
+  top: 50px;
+}
+
+.header2 .header2 nav {
+  position: relative;
+  left: 350px;
+  top: 27px;
+}
+
+.header2 .header2 nav a {
+  padding-left: 50px;
+  text-decoration: none;
+  color: #424551;
+  font-weight: bolder;
+}
+
+.header2 .header2 button {
+  position: relative;
+  width: 207px;
+  height: 52px;
+  background-color: #FD472D;
+  color: #FFFFFF;
+  top: -10px;
+  left: 1300px;
+  border: 0;
+  border-radius: 4px;
+}
+
+.header2 .header2 .Register {
+  position: relative;
+  left: 1350px;
+  top: -10px;
+  text-decoration: none;
+  color: #424551;
+  font-weight: bolder;
+}
+
+.header2 .header2 .Login {
+  position: relative;
+  left: 1350px;
+  top: -10px;
+  text-decoration: none;
+  color: #424551;
+  font-weight: bolder;
+}
+
+.header2 .header2 .course {
+  position: relative;
+  left: 780px;
+  color: #FF3F3A;
+  top: 50px;
+  font-weight: bolder;
+}
+
+.header2 {
+  width: 100%;
+  height: 468px;
+  background-color: #FEDAD5;
+}
+
+.logo1 {
+  position: relative;
+  left: 200px;
+  top: 50px;
+}
+
+.header2 nav {
+  position: relative;
+  left: 350px;
+  top: 27px;
+}
+
+.header2 nav a {
+  padding-left: 50px;
+  text-decoration: none;
+  color: #424551;
+  font-weight: bolder;
+}
+
+.header2 button {
+  position: relative;
+  width: 207px;
+  height: 52px;
+  background-color: #FD472D;
+  color: #FFFFFF;
+  top: -10px;
+  left: 1300px;
+  border: 0;
+  border-radius: 4px;
+}
+
+.header2 .Register {
+  position: relative;
+  left: 1350px;
+  top: -10px;
+  text-decoration: none;
+  color: #424551;
+  font-weight: bolder;
+}
+
+.header2 .Login {
+  position: relative;
+  left: 1350px;
+  top: -10px;
+  text-decoration: none;
+  color: #424551;
+  font-weight: bolder;
+}
+
+.header2 .course {
+  position: relative;
+  left: 780px;
+  color: #FF3F3A;
+  top: 50px;
+  font-weight: bolder;
+}
+
+.header2 .UserExperiencePrinciplesofHumanCenteredDesign {
+  position: relative;
+  text-align: center;
+  left: -150px;
+  top: 70px;
+  font-weight: bolder;
+  font-size: 46px;
+}
+
+@media screen and (width: 768px) {
+  .header2 {
+    position: relative;
+    width: 250%;
+  }
+}
+
+@media screen and (width: 1024px) {
+  .header2 {
+    position: relative;
+    width: 180%;
+  }
+}
+
+@media screen and (width: 390px) {
+  .header2 {
+    position: relative;
+    width: 500%;
+  }
+}

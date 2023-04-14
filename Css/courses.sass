@@ -1,0 +1,51 @@
+@import 'mixers'
+@import 'slider'
+@import 'footer'
+@import 'mans'
+@include header2
+@include main2
+@include footer3
+@media screen and (width:768px)
+    .header2
+        width: 250%
+    .main2
+        .firstlist
+            position: relative
+            left: 190px
+        .block2
+            width: 250%
+        .row
+            .card4
+                position: relative
+                left: 900px
+            .card3
+                position: relative
+                left: 300px
+            .card2
+                position: relative
+                left: 790px
+@media screen and (width:1024px)
+    .header2
+        width: 250%
+    .main2
+        .firstlist
+            position: relative
+            left: 190px
+        .block2
+            width: 200%
+        .row
+            .card4
+                position: relative
+                left: 900px
+            .card3
+                position: relative
+                left: 300px
+            .card2
+                position: relative
+                left: 790px
+@media screen and (width:390px)
+    .header2
+        width: 450%
+    .main2
+        .block2
+            width: 450%
